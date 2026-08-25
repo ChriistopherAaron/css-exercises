@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+
+/* Style for class "odd" */
+.odd {
+    background-color: #ffc0cb;
+    font-family: "Verdana", "deJavu Sans", sans-serif;
+}
+
+/* Style for ID "number-2" */
+#number-2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+/* Style for class "cooler" */
+.cooler {
+    font-size: 24px;
+}
+
+/* Style for ID "number-4" */
+#number-4 {
+    background-color: #90ee90;
+    font-weight: bold;
+}
